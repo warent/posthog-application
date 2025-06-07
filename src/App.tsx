@@ -8,13 +8,13 @@ export default function Example() {
     {
       name: "In love with tech",
       description:
-        "He's probably spent like 30,000 hours of his life coding and building things. Seriously, it's kind of scary.",
+        "You're in his home right now--no really, that's where this server is located. He's probably spent like 30,000 hours of his life coding and building things.",
       icon: HeartIcon,
     },
     {
       name: "Obsessed with awesomeness",
       description:
-        "With high personal standards, he always wants apply attention to detail and make awesome experiences for people.",
+        "With high personal standards, he always pays attention to detail, particularly with making awesome experiences for people.",
       icon: SparklesIcon,
     },
     {
@@ -126,11 +126,11 @@ export default function Example() {
               </div>
             </div>
             <img
-              alt="Product screenshot"
+              alt="Me!"
               src={ImgMe}
               width={2432}
               height={1442}
-              className="w-3xl max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 sm:w-228 md:-ml-4 lg:-ml-0"
+              className="w-full max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 object-cover object-left sm:w-228 md:-ml-4 lg:-ml-0"
             />
           </div>
         </div>
