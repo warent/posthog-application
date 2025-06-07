@@ -20,7 +20,7 @@ export default function Example() {
     {
       name: "Fearless work",
       description:
-        "That ancient complicated clunky thing that people hate but are too afraid to change? Sign him up! (Unless it likely provides little to no business value, then he'll let you know.)",
+        "That ancient complicated clunky part of the codebase that people hate but are too afraid to change? Sign him up! (Unless it likely provides little to no business value, then he'll let you know.)",
       icon: EyeIcon,
     },
   ];
